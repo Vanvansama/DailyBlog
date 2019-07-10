@@ -38,3 +38,14 @@
 4. 今天学习了jest的环境搭建和编写测试代码，在用npm安装jest依赖的时候发现速度太慢，再更换了淘宝源之后才成功的下载下来。之前使用Spring的时候接用JUnit做单元测试，而今天是第一次接触到jest，感觉这两者这间的使用上給我的感觉很相似，所以我去搜索了一下这两是不是有关系，结果并没有。使用过后觉得这个测试工具还不错，可以对JS函数进行单元测试，及时的发现问题。
 
 ---
+
+# [ITA] Daily Report on 2019/07/10
+
+1. Key learning, skills and experience acquired
+   - Today we reviewed Concept Map homework in class to strengthen the impression of the concept map and to improve proficiency, and I find many problems in my homework. Then I make some change.
+   - Then to review the code of each other's work in groups, We can see many advantages and disadvantages in their work and learn some good advantage from it.
+   - In the afternoon, we learn the JavaScript about the difference between const, var, let, the difference between arrow function and ordinary function and how to use array's function like map(),filter(),reduce().
+2. Problem / Confusing / Difficulties
+   - Today's homework is too much. 
+3. Other Comments / Suggestion
+   - The Tasking Graph is real useful!
