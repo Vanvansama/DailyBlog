@@ -49,3 +49,22 @@
    - Today's homework is too much. 
 3. Other Comments / Suggestion
    - The Tasking Graph is real useful!
+
+
+
+---
+
+# [ITA] Daily Report on 2019/07/11
+
+**1. Key learning, skills and experience acquired**
+
+- we review codes in our team today and then we rebuild it, In this way I found some problem that I didn't notice yesterday, So I think review code is interesting.
+- The afternoon we learn java language basic, including keywords like new, class, super, static and concepts like override, overwrite. 
+
+**2. Problem / Confusing / Difficulties**
+
+- During code review, several code smell has been found in my code. I know I have a long way to go in programming.
+
+**3. Other Comments / Suggestion**
+
+- I figured out the java.util.Observer and java.util.Observable !!!
