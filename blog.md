@@ -68,3 +68,28 @@
 **3. Other Comments / Suggestion**
 
 - I figured out the java.util.Observer and java.util.Observable !!!
+
+---
+
+# [ITA] Daily Report on 2019/07/12
+
+**1. Key learning, skills and experience acquired**
+
+- OOP code review: I use observer pattern in my last night homework.
+- Java practice: we learn how to use streams(java8 streams API)
+- TDD: test drive developmen, its five implementation processes, drawing task maps, writing tests, running tests, writing implementations, running tests; Then repeat these operations.
+- the afternoon we do the pair coding practice and is a way improvement of two people's programming ability of a practice.
+
+2.**Problem / Confusing / Difficulties**
+
+- no familiar about streams api because I never use it in my project
+- Ican't figure out the difference between aggregation and combination
+
+**3. Other Comments / Suggestion**
+
+- pair coding is good, can learn so much from my partner.
+
+
+
+
+  
