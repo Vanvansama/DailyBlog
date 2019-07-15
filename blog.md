@@ -91,5 +91,48 @@
 
 
 
+---
 
+ # [ITA] Notes on Week one(07/08-07/12)
+1. Key learning, skills and experience acquired 
+
+- Concept map:
+  After a whole week study, I put Concept map at the highest level. Because it is a vital way to learn something new. I don’t know where to start at the beginning, then I do more practice let me gradually master the drawing skills. This process makes me feel a sense of accomplishment.
+
+- Task diagram:
+   Tasking allows us to divide a large task into small parts, which makes us more aware of the needs, but also makes our work more clear
+
+- JavaScript basis:
+  We focus on the ES6 feature especially some method of Array. Use filter as an example, we don't need writing a loop to go through all the element anymore. This will make our code look very simple and easy to understand, and the built-in function is definitely more efficient than the two-layer loop. Replacing a two-tier loop with built-in functions is a challenge, and you usually know how to optimize your code as you think about it.
+
+- Java:
+  The all-new Stream API introduced by Java 8 gives us a more efficient way to go through and manipulate the element of an array or list just as the filter/map method does in the JavaScript. This is a skill I have never used in my project, so I feel very excited because I can get new knowledge and do a lot of practice.
   
+- TDD:
+  It is a core practice and technology in agile development and a design methodology. The principle of TDD is to write unit test case code before the function code is developed. The test code determines what product code needs to be written. It teaches us to think about the requirements to use the task graph to decompose the requirements, rather than writing the code as soon as we see the requirements.
+
+2. Problem / Confusing / Difficulties
+   Some change needs to be done on my time management strategies. By the end of this week, I am tired and exhausted from delivering homework on time which gives me no time to Summarize what I've learned in a day. I need to balance my homework and summarizing knowledge with refactoring code.
+
+3. Other Comments / Suggestion/Feeling 
+   This week's training is actually very hard, but the harvest is really a lot. I actually feel that writing program is quite fun.
+
+
+
+---
+
+# [ITA] Daily Report on 2019/07/15
+
+**1. Key learning, skills and experience acquired**
+
+- Today we refactor the weekend homework. The refactoring is not easy, but we can focus on code smell like duplicate code, magic number, extra comment, long function body. That let me try to encapsulated object, extract methods and classes and Interface to make the code simple and clear.
+- The afternoon we try use mockito to mock data which given by classes that we don't need to attention.
+
+**2. Problem / Confusing / Difficulties**
+
+- It is the first time for me to use mockito in java. But I think it was like to the mock.js in JS. I use the online document help me go through that process.
+- It is hard to understand all needs. When there comes confuse, we should immediately ask others to clarify, Or all the work done is meaningless.
+
+**3. Other Comments / Suggestion**
+
+- We should only focus on the implementation functions covered in each test case, not the requirements we imagine.
