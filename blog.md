@@ -136,3 +136,22 @@
 **3. Other Comments / Suggestion**
 
 - We should only focus on the implementation functions covered in each test case, not the requirements we imagine.
+
+---
+
+# [ITA] Daily Report on 2019/07/161. 
+
+**1. Key learning, skills and experience acquired**
+
+- Today we learn to use RESTful style for api design.
+
+- And create a Spring Boot unit-test use JUnit and Mockito.
+- Learn by self and code test by ourself.
+
+**2. Problem / Confusing /      Difficulties**
+
+​	I can't figure out how to compare two list in ResultActions.
+
+**3. Other Comments /      Suggestion/Feeling**
+
+​	Tonight I don't have enough time to find the answer of my question. I am not feeling well if something is not solved.
