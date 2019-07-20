@@ -139,7 +139,7 @@
 
 ---
 
-# [ITA] Daily Report on 2019/07/161. 
+# [ITA] Daily Report on 2019/07/16. 
 
 **1. Key learning, skills and experience acquired**
 
@@ -155,3 +155,60 @@
 **3. Other Comments /      Suggestion/Feeling**
 
 ​	Tonight I don't have enough time to find the answer of my question. I am not feeling well if something is not solved.
+
+---
+
+# [ITA] Daily Report on 2019/07/16
+
+**1. Key learning, skills and experience acquired**
+
+- In the afternoon, I learned Spring data JPA, learned to use annotations to associate entity classes and database tables, and learned that JPA can simplify JDBC code and save time in writing database code.
+- Learned and use springBoot,H2 to create a temporary database to help develop,and learn more related annotations.
+- Learned how to use different response status code to feedback the specific status when use postman test interface.
+
+
+**2. Problem / Confusing / Difficulties**
+
+- how to test the JPA is work.
+
+**3. Other Comments / Suggestion**
+
+- None
+
+---
+
+# [ITA] Daily Report on 2019/07/19
+
+#### 1. Key learning, skills and experience acquired
+
+- Today we review the summary of Spring related annotations, SpringData related annotations, SpringMVC related comments.
+- Reviqew the meaning and benefits of the MVC architecture.
+- Learned Vue related knowledge and conducted code exercises.
+
+#### 2. Problem / Confusing / Difficulties
+
+- None
+
+#### 3. Other Comments / Suggestion
+
+- I think Vue and React is two different framework but there are still some similar places. In my opinion, Vue is useful, but React is powerful.
+
+---
+
+# [ITA] Weekly Report between 2019/07/15 - 2019/07/19
+
+**1. Key learning, skills and experience acquired**
+
+- SpringBoot: Learn to build a project using SpringBoot and then test the controller and repository. SpringBoot has a lot of annotations to help developers save time, we should learn how to use them.
+- Restful: Restful is an API specification that lets developers quickly understand the role of this API. Learn about the five request methods of Http and use them in SpringBoot. 
+- JPA: Learn to use JPA annotations to annotate entity classes, use the methods in JpaRepository to implement various data operations, and then perform Jpa testing.
+- flyway: Use flyway for version control of the database. It need to be familiar with the syntax of sql and write sql script file.
+- Vue: In terms of the use of these two days, my experience is that Vue is very lightweight, and the grammar is a bit strange. Don’t say that I still like UmiJS of Ant Financial. Hahahaha
+
+**2. Problem / Confusing / Difficulties**
+
+- When doing Vue's homework this week, use the key to identify each record when using loop rendering. Do not use index as the key value. This will cause the content to be updated, but the key value will not change because the index does not change. The record will be re-rendered.
+
+**3. Other Comments / Suggestion**
+
+- nothing
